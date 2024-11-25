@@ -1,6 +1,6 @@
-# Secret Santa
+# Secret Santa NG
 
-Check it live on [peprolinbot.github.io/secretsanta/](http://arcanis.github.io/secretsanta/).
+Check it live on [peprolinbot.github.io/secretsanta-ng/](http://peprolinbot.github.io/secretsanta-ng/). An improved (in my personal opinion) version of [the original work by arcanis](https://github.com/arcanis/secretsanta), using Bootstrap and making it responsive ✨; it also removes the amazon affiliate stuff.
 
 ## License (MIT)
 
